@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+
+<title>Ebro In The Morning – 2022</title>
+<link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+<description>Private podcast episodes from Ebro In The Morning – 2022</description>
+<language>en-us</language>
+
+<itunes:author>gga</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>serial</itunes:type>
+<itunes:image href="https://EbroPod.github.io/ebro-in-the-morning-2022/podcastlogo.jpg" />
+
+<itunes:category text="Music">
+  <itunes:category text="Talk"/>
+</itunes:category>
+
+    <item>
+      <title>Ebro in the Morning - Ebro Is Going To Disney World! + Day 4 Of Tory Lanez Trial</title>
+      <link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+      <description>Ebro in the Morning - Ebro Is Going To Disney World! + Day 4 Of Tory Lanez Trial</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YoZJouv7yhCssBsYJd4uIdrCP78Ws307" length="59532280" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1YoZJouv7yhCssBsYJd4uIdrCP78Ws307</guid>
+    </item>
+
+    <item>
+      <title>BONUS_ Best Of Ride Or Die &amp; Curved - Part One</title>
+      <link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+      <description>BONUS_ Best Of Ride Or Die &amp; Curved - Part One</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X2NUmCbud9RlymCni_gGjw6aAGqSp6Wm" length="26690837" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1X2NUmCbud9RlymCni_gGjw6aAGqSp6Wm</guid>
+    </item>
+
+    <item>
+      <title>BONUS_ Emotional Oranges On Defining Style &amp; Sound, Being Independent + Journey</title>
+      <link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+      <description>BONUS_ Emotional Oranges On Defining Style &amp; Sound, Being Independent + Journey</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VH9CBpSurpMjLOi1nkhMKMboSrULJ1nK" length="25227520" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1VH9CBpSurpMjLOi1nkhMKMboSrULJ1nK</guid>
+    </item>
+
+    <item>
+      <title>BONUS_ Best Of Ride or Die &amp; Curved - Part 2</title>
+      <link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+      <description>BONUS_ Best Of Ride or Die &amp; Curved - Part 2</description>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YagOSMd8fC0hiSEpEq_J5qMgQ8dhd4eK" length="25313660" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1YagOSMd8fC0hiSEpEq_J5qMgQ8dhd4eK</guid>
+    </item>
+
+    <item>
+      <title>BONUS_ Druski On Stand Up vs IG, Drake, Humble Beginnings, + Names Top 5 Comedians</title>
+      <link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+      <description>BONUS_ Druski On Stand Up vs IG, Drake, Humble Beginnings, + Names Top 5 Comedians</description>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1et2mWe0v8Qx1r7Gs6bt8LZRH0xJFjmFR" length="30363823" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1et2mWe0v8Qx1r7Gs6bt8LZRH0xJFjmFR</guid>
+    </item>
+
+    <item>
+      <title>BONUS_ A Boogie On Dealing w_ Fame, Working w_ Legends, Social Presence + New Project</title>
+      <link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+      <description>BONUS_ A Boogie On Dealing w_ Fame, Working w_ Legends, Social Presence + New Project</description>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1avFR21ZgMxXreAX2UDMbqJWM3H24Wfyo" length="16252422" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1avFR21ZgMxXreAX2UDMbqJWM3H24Wfyo</guid>
+    </item>
+
+    <item>
+      <title>BONUS_ GloRilla On Blowing Up &amp; F.N.F + Babyface Ray Taps In</title>
+      <link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+      <description>BONUS_ GloRilla On Blowing Up &amp; F.N.F + Babyface Ray Taps In</description>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RVXbqen_JxQLiT8yWOma3nIbWePajeE6" length="32380037" type="audio/mpeg"/>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1RVXbqen_JxQLiT8yWOma3nIbWePajeE6</guid>
+    </item>
+
+    <item>
+      <title>BONUS_ Lalah Hathaway Speaks On Duet w. Her Dad Donny Hathaway + Says She's The 'Nicki Minaj' Of Singers</title>
+      <link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+      <description>BONUS_ Lalah Hathaway Speaks On Duet w. Her Dad Donny Hathaway + Says She's The 'Nicki Minaj' Of Singers</description>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jyCDDzAoK-miBonD197U3-pMKOWm0i-g" length="17640483" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1jyCDDzAoK-miBonD197U3-pMKOWm0i-g</guid>
+    </item>
+
+    <item>
+      <title>BONUS_ Tyshawn Jones On Black Skateboarders, Endorsements + Going Pro</title>
+      <link>https://EbroPod.github.io/ebro-in-the-morning-2022/</link>
+      <description>BONUS_ Tyshawn Jones On Black Skateboarders, Endorsements + Going Pro</description>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EWhGFzYLF7nIUF3J9QHPsPWxwdNFxLKS" length="23809032" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1EWhGFzYLF7nIUF3J9QHPsPWxwdNFxLKS</guid>
+    </item>
+
+</channel>
+</rss>
